@@ -14,28 +14,39 @@
 
 ## 🧰 Tech Stack
 
-![Python](https://skillicons.dev/icons?i=python)
-![C](https://skillicons.dev/icons?i=c)
-![Java](https://skillicons.dev/icons?i=java)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
+<!-- Languages -->
+### 🖥 Languages & Frameworks
+![Python](https://skillicons.dev/icons?i=python) 
+![C](https://skillicons.dev/icons?i=c) 
+![Java](https://skillicons.dev/icons?i=java) 
+![HTML5](https://skillicons.dev/icons?i=html) 
+![CSS3](https://skillicons.dev/icons?i=css) 
+![JavaScript](https://skillicons.dev/icons?i=javascript) 
+![React](https://skillicons.dev/icons?i=react) 
 ![Django](https://skillicons.dev/icons?i=django)
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
-![Numpy](https://skillicons.dev/icons?i=numpy)
-![Pandas](https://skillicons.dev/icons?i=pandas)
-![Machine Learning](https://skillicons.dev/icons?i=opencv)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Anaconda](https://img.shields.io/badge/Anaconda-42B029?logo=anaconda&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
-![OpenCV](https://skillicons.dev/icons?i=opencv)
-![LaTeX](https://skillicons.dev/icons?i=latex)
-![Scikit-learn](https://skillicons.dev/icons?i=scikitlearn)
-![Microsoft Word](https://img.shields.io/badge/Word-2B579A?logo=microsoftword&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
-![Artificial Intelligence](https://img.shields.io/badge/AI-000000?logo=ai&logoColor=white)
+
+<!-- Libraries & ML -->
+### 🧪 Libraries & ML
+![NumPy](https://skillicons.dev/icons?i=numpy) 
+![Pandas](https://skillicons.dev/icons?i=pandas) 
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow) 
+![Scikit-learn](https://skillicons.dev/icons?i=scikitlearn) 
+![OpenCV](https://skillicons.dev/icons?i=opencv) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+
+<!-- Tools -->
+### ⚙ Tools & Platforms
+![Git](https://skillicons.dev/icons?i=git) 
+![GitHub](https://skillicons.dev/icons?i=github) 
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+<!-- Office & Misc -->
+### 🗂 Office & Misc
+![LaTeX](https://skillicons.dev/icons?i=latex) 
+![Word](https://img.shields.io/badge/MSWord-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white) 
+![Excel](https://img.shields.io/badge/MSExcel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) 
+![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=ai&logoColor=white)
 
 ---
 
