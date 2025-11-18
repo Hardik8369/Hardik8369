@@ -42,7 +42,7 @@
 ## 🐍 Contribution Graph Animation
 > **Enables the snake contribution animation in your profile.**
 
-![snake gif](https://github.com/Hardik8369/Hardik8369/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Hardik8369/Hardik8369/output/snake.svg)
 
 ---
 
