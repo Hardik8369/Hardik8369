@@ -27,8 +27,8 @@
 
 <!-- Libraries & ML -->
 ### 🧪 Libraries & ML
-![NumPy](https://skillicons.dev/icons?i=numpy) 
-![Pandas](https://skillicons.dev/icons?i=pandas) 
+![NumPy](https://img.shields.io/badge/Numpy-11557C?style=for-the-badge&logo=python&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-11557C?style=for-the-badge&logo=python&logoColor=white) 
 ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) 
 ![Scikit-learn](https://skillicons.dev/icons?i=scikitlearn) 
 ![OpenCV](https://skillicons.dev/icons?i=opencv) 
