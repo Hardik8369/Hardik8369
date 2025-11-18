@@ -1,20 +1,36 @@
 name: Generate Snake
 
 on:
-  schedule: 
+  schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
+
+# Allow writing to repository (needed to push the output branch)
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@master
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Ensure dist directory exists
+        run: mkdir -p dist
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: Hardik8369
           outputs: dist/snake.svg
-      - uses: crazy-max/ghaction-github-pages@v3
+
+      - name: Show generated files
+        run: ls -la dist
+
+      - name: Publish to output branch
+        # this action will push the contents of the build_dir to the target_branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
