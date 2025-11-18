@@ -20,12 +20,22 @@
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
-![React](https://skillicons.dev/icons?i=react)
 ![Django](https://skillicons.dev/icons?i=django)
 ![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
 ![Numpy](https://skillicons.dev/icons?i=numpy)
 ![Pandas](https://skillicons.dev/icons?i=pandas)
 ![Machine Learning](https://skillicons.dev/icons?i=opencv)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Anaconda](https://img.shields.io/badge/Anaconda-42B029?logo=anaconda&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
+![OpenCV](https://skillicons.dev/icons?i=opencv)
+![LaTeX](https://skillicons.dev/icons?i=latex)
+![Scikit-learn](https://skillicons.dev/icons?i=scikitlearn)
+![Microsoft Word](https://img.shields.io/badge/Word-2B579A?logo=microsoftword&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/AI-000000?logo=ai&logoColor=white)
 
 ---
 
