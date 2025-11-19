@@ -56,7 +56,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hardik8369&layout=compact&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hardik8369&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Hardik8369&theme=dark)
 
 ---
 
